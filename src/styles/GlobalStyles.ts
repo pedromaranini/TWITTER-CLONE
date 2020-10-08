@@ -18,7 +18,7 @@ export default createGlobalStyle`
     *, button, input {
         border: 0;
         background: none;
-        font-display: -apple-system, system-ui BlinkMacSystemFont, 'Segoe UI', rOBOTO, 'Helvelica Neue', Ubuntu, Arial, sans-serif;
+        font-family: -apple-system, system-ui BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvelica Neue', Ubuntu, Arial, sans-serif;
     }
     html {
         background: var(--primary);
