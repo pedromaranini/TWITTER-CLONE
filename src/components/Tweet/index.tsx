@@ -36,7 +36,7 @@ const Tweet: React.FC = () => {
             <time>27 de junho</time>
           </Header>
 
-          <Description>Oracle do Brasil Sistemas ❤️</Description>
+          <Description>Oracle do Brasil Sistemas</Description>
 
           <ImageContent />
 
