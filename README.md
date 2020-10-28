@@ -7,3 +7,6 @@
 ## 🚀 TECHNOLOGIES
 
   ### [*React*](https://en.reactjs.org/)
+  
+  
+  <h4 align="center">done with :heart: by Maranini</h4>
